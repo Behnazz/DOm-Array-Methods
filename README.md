@@ -1,1 +1,1 @@
-# DOm-Array-Methods
+# DOM-Array-Methods
