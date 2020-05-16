@@ -8,3 +8,5 @@ Using array methods to manipulate DOM using [Random User API](https://randomuser
 - reduce()
 - forEach()
 
+
+[click here to see]( https://behnazz.github.io/DOm-Array-Methods/)
